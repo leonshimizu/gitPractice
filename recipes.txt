@@ -1,4 +1,4 @@
-Fettuccine Alfredo
+Chicken Fettuccine Alfredo
 
 Ingredients:
 - Fettuccine
@@ -8,3 +8,4 @@ Ingredients:
 - Salt
 - Garlic
 - Black Pepper
+- Chicken
